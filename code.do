@@ -2,4 +2,6 @@
 
 sysuse auto
 
+codebook
+
 
